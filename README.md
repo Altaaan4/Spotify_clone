@@ -20,4 +20,5 @@ This project is a front-end clone of the Spotify web interface. Users can search
 - JavaScript (Vanilla)
 
 ## 📸 Preview
+![Image](https://github.com/user-attachments/assets/df825370-5291-4679-96a7-b1a1eef848b9)
 
